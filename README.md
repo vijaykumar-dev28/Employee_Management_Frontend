@@ -187,9 +187,3 @@ This frontend connects to the **Employee Management Backend** built with:
 Java Full Stack Developer  
 📧 vijaykumar.dev28@gmail.com  
 🔗 [GitHub](https://github.com/vijaykumar-dev28) | [LinkedIn](https://linkedin.com/in/your-profile)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
